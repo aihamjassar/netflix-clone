@@ -129,6 +129,7 @@ Create a `.env` file in the root directory and configure your environment variab
 PORT=5000
 MONGO_URI=your_mongodb_connection_string_here
 JWT_SECRET=your_super_secret_jwt_key_here
+JWT_EXPIRATION=your_expiration_jwt_date_here
 NODE_ENV=development
 TMDB_API_KEY=your_tmdb_api_key_here
 ```
