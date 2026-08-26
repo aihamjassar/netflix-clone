@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 Netflix Full-Stack Clone 
+# 🎬 Netflix Full-Stack Clone
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-netflix--clone--production--118c.up.railway.app-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix-clone-production-118c.up.railway.app)
 [![GitHub License](https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge)](LICENSE)
