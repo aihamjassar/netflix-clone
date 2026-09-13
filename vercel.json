@@ -5,7 +5,7 @@
             "framework": "vite"
         },
         "backend": {
-            "root": "backend"
+            "root": "backend/server.js"
         }
     },
     "rewrites": [
